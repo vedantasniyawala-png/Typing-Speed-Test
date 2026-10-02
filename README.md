@@ -27,6 +27,12 @@ A simple Python GUI application that measures typing speed and accuracy using Tk
 
 Make sure Python is installed on your computer.
 
+## Screenshots
+
+### Application Interface
+
+![Typing Speed Test](Typing-test.png)
+
 Run the following command:
 
 ```bash
